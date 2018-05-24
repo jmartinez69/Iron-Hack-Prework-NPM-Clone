@@ -1,0 +1,239 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  line-height: 0px;
+  height: 20px;
+  font-family: 'Source Sans Pro', 'Lucida Grande', sans-serif;
+}
+
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+
+}
+
+.top-left{
+  padding: 0 0 0 20px;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0 0 0 20px;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+.clearfix { clear: both; }
+
+header{
+  color: white;
+  background-color: rgb(32, 101, 136);
+  width: 100%;
+  float:left;
+  padding-bottom: 30px;
+
+
+}
+
+header input {
+  font-family: "Open Sans", OpenSans, sans-serif;
+  display: block;
+  background-color: rgb(31, 82, 111);
+  color: white;
+  height: 40px;
+  width: 73%;
+  margin-right: 0px;
+  float: left;
+  
+}
+
+.headerOne{
+  height: 50px;
+  margin: 10px 0px 10px 20px;
+  padding: 0 0 30px 0;
+
+}
+
+.headerOne a {
+  text-decoration: none;
+  color: rgb(135, 142, 146);
+}
+
+.npmLogo {
+  width: 100px;
+  height: 40px;
+  float: left;
+  padding: 0 10px 0 0;
+}
+
+.oso {
+  display: block;
+  float: right;
+  width: auto;
+  height: auto;
+   
+}
+
+.oso img {
+  padding: 5px 0 0 0;
+  margin: 0 0 0 5px;
+  height: 40%;
+  width: 40%;
+  position:relative;
+}
+
+.login{
+  font-family: "Open Sans", OpenSans, sans-serif;
+  float: left;
+  text-decoration: none;
+  text-align: left;
+  margin: 10px 0 0 10px;
+
+}
+
+.headerTwo {
+  font-family: "Open Sans", OpenSans, sans-serif;
+  height: 500px;
+  width: 1220px;
+  margin: 0 auto;
+  padding: 110px 0 30px 30px;
+  background-image: url("images/buildings-and-billboard.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: initial;
+
+  }
+
+.headerTwo h1{
+  font-size: 2.5rem;
+
+}
+.quote {
+   margin: 0 auto;
+   font-size: 1.2rem;
+   line-height: 2rem;
+}
+
+.botonSign {
+  background-color: #f09233 ;
+  font-family: "Open Sans", OpenSans, sans-serif;
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  display: block;
+  width: 200px;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  font-weight: 500;
+  padding: 7px 26px 8px 26px;
+
+}
+
+.seccion1 {
+  color: white;
+  background-color: rgb(39, 53, 71);
+  margin: auto 0;
+  padding: 50px 0 30px 0;
+  font-family: "Open Sans", OpenSans, sans-serif;
+}
+
+.imgSec1 {
+  padding: 30px 0 30px 0;
+  width: 293;
+  height: 175;
+  float: left;
+}
+
+.botonSignOrgs {
+  background-color: rgb(203, 56, 55) ;
+  font-family: "Open Sans", OpenSans, sans-serif;
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  width: 200px;
+  border: 2px solid rgba( 0, 0, 0, 0.2);
+  border-radius: 15px;
+  font-weight: 500;
+  padding: 7px 26px 8px 26px;
+
+}
+.textSec1{
+  float: right;
+  line-height: 1.5em;
+  padding: 30px 0 0 0;
+}
+.textSec1 a {
+  text-decoration: none;
+  color: white;
+
+}
+.seccion2 {
+
+  background-image: url("images/red-car.png");
+  background-size: cover;
+  color: white;
+  padding: 50px 30px 300px 0;
+  position: relative;
+  height: 250px;
+
+}
+.textSec2{
+  font-family: "Open Sans", OpenSans, sans-serif;
+  line-height: 1.5em;
+  padding: 50px 0 0 150px;
+  position: absolute;
+}  
+
+.botonInstallNpm {
+  background-color: rgb(49, 68, 88) ;
+  font-family: "Open Sans", OpenSans, sans-serif;
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  width: 200px;
+  border: 2px solid rgba( 0, 0, 0, 0.2);
+  border-radius: 15px;
+  font-weight: 500;
+  padding: 7px 26px 8px 26px;
+}
+
+
+.seccion3 {
+  font-family: "Open Sans", OpenSans, sans-serif;
+  width: 1200px;
+  margin: 0 auto;
+  padding: 75px 0;
+  text-align: center;
+}
+.seccion3 h2{
+  color: rgb(83, 88, 98);
+}
+
+.seccion3 h3{
+  color: rgb(135, 145, 156);
+}
+
+
+.col {
+  float: left;
+}
+
+.service-box {
+    text-align: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+    margin: 0 0 0 0;
+    width: 33%;
+    color: rgb(135, 145, 156);
+}
+
+.service-box a{
+  color: rgb(208, 74, 73);
+  text-decoration: none;
+}
